@@ -12,7 +12,7 @@
 
 Deployed via **GitHub Pages**:
 
-https://ngoctinn.github.io/ngoctin-report/
+https://report.ngoctin.me/
 
 This repository is automatically deployed to GitHub Pages.
 

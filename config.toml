@@ -1,4 +1,4 @@
-baseURL = "https://ngoctinn.github.io/ngoctin-report/"
+baseURL = "https://report.ngoctin.me/"
 relativeURLs = false
 canonifyURLs = false
 publishDir = "public"
